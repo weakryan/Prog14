@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estileta.css">
+    <link rel="stylesheet" href="gows.css">
+</head>
+<body>
+    <div class="telas">
+        <div id="topo">
+            <h1 class="linguicaj">God of War Betrayal</h1>
+            <div id="menuu">
+                <a class="menu" href="index.html"> Início</a>
+                <a class="menu" href="jogos.html"> Jogos </a>
+                <a class="menu" href="Enredo.html"> Enredo </a>
+                <a class="menu" href="Personagens.html"> Personagens </a>
+                <a class="menu" href="Equipamentos.html"> Equipamentos</a>                    <a class="menu" href="Curiosidades.html"> Curiosidades</a>
+                <a class="menu" href="galeria_fotos.html"> Galeria deFotos</a>
+                <a class="menu" href="Pagina_de_Contato.html"> Página de Contato</a>
+            </div>
+        </div>
+        <div id="meio">
+
+
+
+            <div id="gridfts">
+                <img src="" >
+                <img src="" >
+                <img src="" >
+            </div>
+           
+
+
+        </div>
+        <div id="partedir">
+            <div id="godbchainsovo"></div>
+            <p class="linguicaj">Desenvolvedora(s):	 Javaground <br> Santa Monica Studio</p>
+            <p class="linguicaj">Publicadora(s):	Sony Picture Digital </p>
+            <p class="linguicaj">Diretor(es):	Ru Weerasuriya</p>
+            <p class="linguicaj">Produtor(es):	Marc Turndorf</p>
+            <p class="linguicaj">Projetista(s):		Dana Jan</p>
+            <p class="linguicaj">Escritor(es):	Marianne Krawczyk
+                Ru Weerasuriya
+                Cory Barlog</p>
+            <p class="linguicaj">Programador(es):	Garret Foster</p>
+            <p class="linguicaj">Série:	God of War</p>
+            <p class="linguicaj">Plataforma(s):	Playstation Portable</p>
+            <p class="linguicaj">Lançamento: AN 4 de março de 2008
+                EU 28 de março de 2008
+                JP 10 de julho de 2008</p>
+            <p class="linguicaj">Modos de jogo:	Um jogador</p>
+        </div>
+        <div id="parteesq">
+            <h3 class="linguicaj">Menu de acesso aos jogos</h3>
+            <p class="linguicaj"><a href="gow1.html"> God Of War (2005)</a></p>
+            <p class="linguicaj"><a href="gow2.html"> God Of War II</a></p>
+            <p class="linguicaj"><a href="gowbetrayal.html"> God Of War: Betrayal</a></p>
+            <p class="linguicaj"><a href="gowchains.html"> God Of War Chains of Olympus</a> </p>
+            <p class="linguicaj"><a href="gow3.html"> God Of War III</a></p>
+            <p class="linguicaj"><a href="gowghost.html"> God Of War Ghost of Sparta</a></p>
+            <p class="linguicaj"><a href="gowascension.html"> God Of War Ascension</a></p>            <p class="linguicaj"><a href="gow2018.html"> God Of War (2018)</a></p>
+            <p class="linguicaj"><a href="gowragnar.html"> God Of War Ragnarök</a> </p>
+
+
+        </div>
+        <div id="rodape">
+            <p class="linguica">Tem alguma coisa para me contar? </p>
+            <p class="linguica"> Seja por ódio gratuito ou crítica construtiva?</p>
+            <p class="linguica"> Venha até minha <a href="Pagina_de_Contato.html"> Página de Contato</a> e seja feliz!!</p>
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+    
+</body>
+</html>

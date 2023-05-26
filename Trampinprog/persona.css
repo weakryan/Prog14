@@ -1,0 +1,33 @@
+.personatext {
+    color: rgb(255, 255, 255);
+    font-variant: small-caps;
+    margin-left: 11px;
+    
+
+}
+
+#graddpersona {
+    align-content: center;
+    padding: 10px;
+    display: grid;
+    border: 2px solid;
+    box-shadow: 10px 3px 10px red;
+    grid-template-areas: 
+    'img img img img'
+    ;
+
+}
+
+#graddpersona img{
+    border-radius: 50%;
+    border: 5px inset #621708;
+    width: 50px;
+    height: 50px;
+    background-size: 100%;
+    margin-top: 10px;
+
+}
+
+#meio {
+    width: 800px;
+}
